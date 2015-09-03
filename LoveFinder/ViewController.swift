@@ -51,7 +51,7 @@ class ViewController: UIViewController,UITextFieldDelegate {
     
     
     @IBAction func okTapped(sender: AnyObject) {
-        let genderText = gender.selectedSegmentIndex==0 ? "高富帅" : "白富美"
+        let genderText = gender.selectedSegmentIndex==0 ? "高富帅" : "白富美";
         
         let gregorian = NSCalendar(calendarIdentifier: NSCalendarIdentifierGregorian)
         
