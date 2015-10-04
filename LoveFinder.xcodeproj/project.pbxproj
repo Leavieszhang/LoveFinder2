@@ -156,6 +156,8 @@
 		BD6E2A0A1B982D55000D2BE9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftMigration = 0700;
+				LastSwiftUpdateCheck = 0700;
 				LastUpgradeCheck = 0640;
 				ORGANIZATIONNAME = leavies;
 				TargetAttributes = {
@@ -409,6 +411,7 @@
 				BD6E2A331B982D55000D2BE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BD6E2A341B982D55000D2BE9 /* Build configuration list for PBXNativeTarget "LoveFinderTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +420,7 @@
 				BD6E2A361B982D55000D2BE9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
